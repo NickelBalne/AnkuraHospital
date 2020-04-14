@@ -11,7 +11,7 @@ Information we collect We don’t collect personal information from the user.
 
 Uses We do not sell or rent user’s personal information with anyone for promotional or marketing purposes. We do not share user’s personal information with anyone outside of IHUB Technologies Pvt Ltd for their promotional or marketing use without their consent
 
-Contact Information If a User has any questions concerning Ankura Hospital App or the Website, this Agreement, the Services, or anything related to any of the foregoing, Ankura Hospital customer support can be reached at the following email address: contact@ecoihub.com or via the contact information available from the following hyperlink: http://www.ecoihub.com/about.html In accordance with the Information Technology Act, 2000, and the rules made thereunder, if you have any grievance with respect to the Website or the service, including any discrepancies and grievances with respect to the processing of information, you can contact our Grievance Officer at:
+Contact Information: If a User has any questions concerning Ankura Hospital App or the Website, this Agreement, the Services, or anything related to any of the foregoing, Ankura Hospital customer support can be reached at the following email address: contact@ecoihub.com or via the contact information available from the following hyperlink: http://www.ecoihub.com/about.html In accordance with the Information Technology Act, 2000, and the rules made thereunder, if you have any grievance with respect to the Website or the service, including any discrepancies and grievances with respect to the processing of information, you can contact our Grievance Officer at:
 
 Name: Partha Reddy Bijjam
 
