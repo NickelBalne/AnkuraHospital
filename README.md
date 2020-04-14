@@ -7,7 +7,7 @@ Ankura Hospital is a service of IHUB Technologies Pvt Ltd. By using the Company 
 
 The Terms of Use may be revised periodically and this will be reflected by the Last Updated date at the top of the Terms of Use. Please revisit this page to stay aware of any changes. Your continued use of the Services constitutes your agreement to the Terms of Use and any future revisions.
 
-Information we collect We don’t collect personal information from the user.
+Information we collect: We don’t collect personal information from the user.
 
 Uses We do not sell or rent user’s personal information with anyone for promotional or marketing purposes. We do not share user’s personal information with anyone outside of IHUB Technologies Pvt Ltd for their promotional or marketing use without their consent
 
